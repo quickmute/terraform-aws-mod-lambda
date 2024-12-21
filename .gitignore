@@ -35,3 +35,7 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+Examples/default/.terraform.lock.hcl
+Examples/default/files/example.zip
+Examples/snapstart/.terraform.lock.hcl
+Examples/snapstart/lambdafiles/example.zip
